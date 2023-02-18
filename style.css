@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #1e1e1e;
+}
+
+#main {
+  margin: 30px;
+  color: white;
+}
+
+#input {
+  display: flex;
+  color: white;
+  margin: 20px;
+  padding: 10px;
+}
+
+.input-field {
+  margin: 10px;
+  height: 25px;
+  width: 250px;
+  background-color: #1e1e1e;
+  border: 1px solid #ffffff;
+  color: white;
+}
+
+#issue-book-btn {
+  margin: 20px;
+  cursor: pointer;
+  width: 712px;
+  height: 67px;
+  background-color: white;
+}
+
+table {
+  width: 90%;
+  height: 514px;
+  margin: 0 73px;
+  color: white;
+}
+th,
+td {
+  border: 1px solid #ffffff;
+  border-collapse: collapse;
+  padding: 10px;
+}
